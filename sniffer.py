@@ -141,3 +141,4 @@ if __name__ == "__main__":
     window = SnifferApp()
     window.show()
     sys.exit(app.exec())
+
