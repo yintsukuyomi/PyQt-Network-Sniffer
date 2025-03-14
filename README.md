@@ -15,7 +15,3 @@ An advanced network packet sniffer built using Python, Scapy, PyQt6, and pyqtgra
 - PyQt6
 - pyqtgraph
 - pandas
-
-## Installation:
-1. Clone the repository:
-   git clone https://github.com/yourusername/Advanced-Network-Sniffer.git
